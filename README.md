@@ -3,3 +3,7 @@ sample repository for Git study
 
 # test
 commit try
+
+
+# change
+change try
